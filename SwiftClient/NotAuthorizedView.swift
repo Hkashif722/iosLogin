@@ -2,7 +2,7 @@
 //  NotAuthorizedView.swift
 //  SwiftClient
 //
-//  Created by Mohammad Azam on 4/14/21.
+//  Created by Kashif Hussain on 15/10/2023
 //
 
 import SwiftUI
